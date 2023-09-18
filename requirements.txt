@@ -159,7 +159,7 @@ jupyter-highlight-selected-word==0.2.0
     # via jupyter-contrib-nbextensions
 jupyter-nbextensions-configurator==0.6.3
     # via jupyter-contrib-nbextensions
-jupyter-server==1.24.0
+jupyter-server==2.7.2
     # via
     #   jupyter-server-fileid
     #   jupyterlab
